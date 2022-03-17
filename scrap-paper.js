@@ -38,8 +38,6 @@ inquirer
                 {name: 'Apache', value: 'apache'},
                 {name: 'GNU', value: 'GNU'},
                 {name: 'MIT', value: ' MIT'},
-                {name: 'BSD-2', value: 'BSD-2'},
-                {name: 'BSD-3', value: 'BSD-3'},
             ]
         },
         {
@@ -54,7 +52,7 @@ inquirer
         }
     ])
     .then(answers => {
-        fs.writeFile('README.md', JSON.stringify(answers, null, 2), (err) => {
+        fs.writeFile('seanREADME.md', JSON.stringify(answers, null, 2), (err) => {
             err ? console.error(err) : console.log('success!')
         });
     });
