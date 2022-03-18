@@ -1,20 +1,20 @@
 
   # Title
-  project
+  project fun
   ## Description
-  description
+  this is my fun project
   ## Installation
-  install
+  install fun
   ## Usage
-  use
+  use for fun only
   ## Contributing
-  contribute
+  contribute if you like fun
   ## License
    MIT
   ## Tests
-  test
+  tests are fun, too
   ## GitHub
-  username
+  funtimes-hax0r
   ## Questions
-  myemail
+  email@menow.com
   
