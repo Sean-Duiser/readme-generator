@@ -1,25 +1,26 @@
 
   # Title
-  Fun times
+  fun
   ## Description
-  Only for fun
+  fun
   ## Table of Contents
   1. [Install](#installation)
   2. [Usage](#usage)
   3. [Contributing](#contributing)
-  4. [Tests](#tests)
-  5. [GitHub](#github)
-  6. [Questions](#questions)
+  4. [License](#license)
+  5. [Tests](#tests)
+  6. [GitHub](#github)
+  7. [Questions](#questions)
   ## Installation
-  install for fun
+  fun
   ## Usage
-  Use for fun
+  fun
   ## Contributing
-  Contribute to the fun
+  fun
   ## License
-   MIT
+  apache
   ## Tests
-  The tests are fun
+  fun
   ## GitHub
   https://github.com/sean-duiser
   ## Questions
