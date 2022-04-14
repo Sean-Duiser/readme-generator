@@ -39,10 +39,10 @@ function generateMarkdown(data) {
   ## Table of Contents
   1. [Install](#installation)
   2. [Usage](#usage)
-  3. [Contributing](#contributions)
+  3. [Contributing](#contributing)
   4. [Tests](#tests)
   5. [GitHub](#github)
-  6. [Questions](#email)
+  6. [Questions](#questions)
   ## Installation
   ${data['installation']}
   ## Usage
