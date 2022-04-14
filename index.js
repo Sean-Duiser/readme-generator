@@ -32,7 +32,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please provide test instructions.',
+        message: 'Please provide information regarding your tests.',
         name: 'tests',
     },
     {
@@ -63,7 +63,7 @@ function writeToFile(fileName, data) {
         .prompt(questions)
         .then(data => {
             const readMeTemplate =
-            generateMarkdown(data);
+                generateMarkdown(data);
             fs.writeFile(fileName, readMeTemplate, (err) => {
                 err ? console.error(err) : console.log('success!')
             });

@@ -36,6 +36,13 @@ function generateMarkdown(data) {
   ${data['title']}
   ## Description
   ${data['description']}
+  ## Table of Contents
+  1. [Install](#installation)
+  2. [Usage](#usage)
+  3. [Contributing](#contributions)
+  4. [Tests](#tests)
+  5. [GitHub](#github)
+  6. [Questions](#email)
   ## Installation
   ${data['installation']}
   ## Usage
@@ -47,7 +54,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data['tests']}
   ## GitHub
-  ${data['gitHub']}
+  https://github.com/${data['gitHub']}
   ## Questions
   ${data['email']}
   `;
